@@ -1,0 +1,13 @@
+D:\dotnettest\xUnitTesting\xUnitConsole\xUnitConsole\bin\Debug\netcoreapp3.1\xUnitConsole.exe
+D:\dotnettest\xUnitTesting\xUnitConsole\xUnitConsole\bin\Debug\netcoreapp3.1\xUnitConsole.deps.json
+D:\dotnettest\xUnitTesting\xUnitConsole\xUnitConsole\bin\Debug\netcoreapp3.1\xUnitConsole.runtimeconfig.json
+D:\dotnettest\xUnitTesting\xUnitConsole\xUnitConsole\bin\Debug\netcoreapp3.1\xUnitConsole.runtimeconfig.dev.json
+D:\dotnettest\xUnitTesting\xUnitConsole\xUnitConsole\bin\Debug\netcoreapp3.1\xUnitConsole.dll
+D:\dotnettest\xUnitTesting\xUnitConsole\xUnitConsole\bin\Debug\netcoreapp3.1\xUnitConsole.pdb
+D:\dotnettest\xUnitTesting\xUnitConsole\xUnitConsole\obj\Debug\netcoreapp3.1\xUnitConsole.csprojAssemblyReference.cache
+D:\dotnettest\xUnitTesting\xUnitConsole\xUnitConsole\obj\Debug\netcoreapp3.1\xUnitConsole.AssemblyInfoInputs.cache
+D:\dotnettest\xUnitTesting\xUnitConsole\xUnitConsole\obj\Debug\netcoreapp3.1\xUnitConsole.AssemblyInfo.cs
+D:\dotnettest\xUnitTesting\xUnitConsole\xUnitConsole\obj\Debug\netcoreapp3.1\xUnitConsole.csproj.CoreCompileInputs.cache
+D:\dotnettest\xUnitTesting\xUnitConsole\xUnitConsole\obj\Debug\netcoreapp3.1\xUnitConsole.dll
+D:\dotnettest\xUnitTesting\xUnitConsole\xUnitConsole\obj\Debug\netcoreapp3.1\xUnitConsole.pdb
+D:\dotnettest\xUnitTesting\xUnitConsole\xUnitConsole\obj\Debug\netcoreapp3.1\xUnitConsole.genruntimeconfig.cache
